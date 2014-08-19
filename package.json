@@ -1,0 +1,23 @@
+{
+  "name": "random-geojson-stream",
+  "version": "0.0.0",
+  "description": "Stream that emits random GeoJSON features",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finnp/random-geojson-stream.git"
+  },
+  "keywords": [
+    "geojson",
+    "random"
+  ],
+  "author": "Finn Pauls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finnp/random-geojson-steram/issues"
+  },
+  "homepage": "https://github.com/finnp/random-geojson-stream"
+}
